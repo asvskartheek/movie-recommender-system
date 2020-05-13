@@ -1,0 +1,1 @@
+wget http://www.occamslab.com/petricek/data/ratings.dat
